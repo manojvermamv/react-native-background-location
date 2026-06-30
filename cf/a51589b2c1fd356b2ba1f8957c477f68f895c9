@@ -1,0 +1,55 @@
+android/src/main/java/com/backgroundlocation/provider/ActivityProvider.kt
+  s_ff8c3840887fef::t_11b74fbd1c4c89 13,16-18,24-26,29-31,37-39,42-44,47-49,52
+  s_ff8c3840887fef::t_aa8d25fd3083fa 14-15,19-23,27-28,32-36,40-41,45-46,50-51
+src/utils/trackingOptionsMapper.ts
+  s_ff8c3840887fef::t_7151324bfe3539 19-25
+src/types/tracking.ts
+  s_ff8c3840887fef::t_7125610a1d6cda 318
+ios/LocationManagerWrapper.swift
+  s_ff8c3840887fef::t_cf4a93d6f6d08f 427-428
+android/src/main/java/com/backgroundlocation/provider/ActivityRecognitionProvider.kt
+  s_ff8c3840887fef::t_8957b6c4202ed1 29,32,40,43,54,57,65,68
+  s_ff8c3840887fef::t_11b74fbd1c4c89 17-18,20-23,25-28,30-31,33-34,36-39,41-42,44-45,47-53,55-56,58-59,61-64,66-67,69-70,72-77,79-82
+android/src/main/java/com/backgroundlocation/provider/ActivityProviderFactory.kt
+  s_ff8c3840887fef::t_aa8d25fd3083fa 11-12
+  s_ff8c3840887fef::t_11b74fbd1c4c89 10,13-15,17-20,22-24
+android/src/main/java/com/backgroundlocation/ActivityReceiver.kt
+  s_ff8c3840887fef::t_11b74fbd1c4c89 15-17,19-20,22-30,32-38,40,42-52,54
+android/src/main/java/com/backgroundlocation/database/LocationDatabase.kt
+  s_ff8c3840887fef::t_489c2a8af36a55 7-8
+  s_ff8c3840887fef::t_2dffd3aaafd9ab 36-45,48,64
+android/src/main/java/com/backgroundlocation/LocationService.kt
+  s_33a3b7d3476b93::t_1afb4ac63b84ef 40,281,476,482,487,492,495,497,514,519,528,688
+.github/workflows/ci.yml
+  s_ff8c3840887fef::t_8c8fd075d1edae 57-81
+README.md
+  s_ff8c3840887fef::t_95c209f6f960fc 53,77
+example/android/app/src/main/AndroidManifest.xml
+  s_ff8c3840887fef::t_6750611ccb0fd8 56
+package.json
+  s_ff8c3840887fef::t_eb78eaebd33a73 231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "cfa51589b2c1fd356b2ba1f8957c477f68f895c9",
+  "prompts": {},
+  "sessions": {
+    "s_33a3b7d3476b93": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    },
+    "s_ff8c3840887fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
