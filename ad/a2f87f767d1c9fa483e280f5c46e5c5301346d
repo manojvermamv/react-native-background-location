@@ -1,0 +1,94 @@
+android/schemas/com.backgroundlocation.database.LocationDatabase/2.json
+  s_ff8c3840887fef::t_03e32b1f93586f 1-366
+src/utils/trackingOptionsMapper.ts
+  s_ff8c3840887fef::t_53bc550e464332 3,11-14,21-33,44-47,50-56
+ios/LocationManagerWrapper.swift
+  s_ff8c3840887fef::t_daea1beb9c0274 466
+  s_c0018578bf8027::t_4ab20222030968 457
+  s_c0018578bf8027::t_6cc5366108b346 463-465,467-478,480-489,496-505
+  s_c0018578bf8027::t_55c0dc65f0cbc0 139-143
+  s_ff8c3840887fef::t_eb4c9e515edb6e 97-106
+  s_c0018578bf8027::t_85a95b1f64a060 18-20
+  s_c0018578bf8027::t_924e0e4bd4c984 3
+android/src/main/java/com/backgroundlocation/TrackingOptions.kt
+  s_ff8c3840887fef::t_f1595006ee456f 5-10,34-35,37-39,41-51
+src/types/tracking.ts
+  s_43bb90896a34c6::t_1b28956cb82f48 180-181
+  s_43bb90896a34c6::t_3dcf8c8859e579 162-164
+android/src/test/java/com/backgroundlocation/ActivityStateTest.kt
+  s_7a003c32ed5666::t_9a3f50c741a5d6 1-4,6-209
+  s_7a003c32ed5666::t_c5133163d55bc0 5
+android/src/main/java/com/backgroundlocation/provider/ActivityRecognitionProvider.kt
+  s_ff8c3840887fef::t_f04283fcdb7b01 29-36
+  s_ff8c3840887fef::t_231dff5e6d4129 3,7-8
+android/src/main/java/com/backgroundlocation/LocationAccuracy.kt
+  s_ff8c3840887fef::t_41522fb4699528 6-8,10
+  s_ff8c3840887fef::t_6c525f5b84f582 11-13
+  s_ff8c3840887fef::t_2541be8fbf70d7 14-15,23
+ios/ActivityProvider.swift
+  s_c0018578bf8027::t_cffe28bd6c2f2c 49
+  s_c0018578bf8027::t_40426ef9aab813 5
+  s_ff8c3840887fef::t_01d1d1a6e1e870 31-34
+  s_ff8c3840887fef::t_a76ca351989297 35-36
+src/utils/trackingOptionsDefaults.ts
+  s_33a3b7d3476b93::t_502ff9cbab800d 1-26
+android/src/main/java/com/backgroundlocation/ActivityReceiver.kt
+  s_7a003c32ed5666::t_45df731ac42e4d 26
+android/src/main/java/com/backgroundlocation/LocationService.kt
+  s_7a003c32ed5666::t_b3b4e7f5e81719 42-43
+  s_ff8c3840887fef::t_5bf637275b7109 136-140,142-147,382,386-409,823,825,911,940-995
+CHANGELOG.md
+  s_ff8c3840887fef::t_b8e6f44aca69c5 7-10
+README.md
+  s_ff8c3840887fef::t_7e6e5feca44c5a 30,59-65,67
+android/src/main/java/com/backgroundlocation/LocationStorage.kt
+  s_ff8c3840887fef::t_69f22110341f63 205,234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "ada2f87f767d1c9fa483e280f5c46e5c5301346d",
+  "prompts": {},
+  "sessions": {
+    "s_33a3b7d3476b93": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    },
+    "s_43bb90896a34c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0de50028cffeb7SAMk8KV8rGK6",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    },
+    "s_7a003c32ed5666": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0de50489cffeovV6OTgxLMnx5q",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    },
+    "s_c0018578bf8027": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0de502028ffeR9CVkqGyNWcz93",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    },
+    "s_ff8c3840887fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
