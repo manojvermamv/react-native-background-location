@@ -1,0 +1,19 @@
+ios/LocationManagerWrapper.swift
+  s_ff8c3840887fef::t_a38e471dac2c17 103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "d6b2e0f350261326750c8d32c132240d3aa3ca29",
+  "prompts": {},
+  "sessions": {
+    "s_ff8c3840887fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
