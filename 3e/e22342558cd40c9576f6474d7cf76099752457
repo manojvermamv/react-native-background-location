@@ -1,0 +1,19 @@
+src/utils/trackingOptionsMapper.ts
+  s_ff8c3840887fef::t_b124d9d4656014 10-11,19,25,30-33,36-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "3ee22342558cd40c9576f6474d7cf76099752457",
+  "prompts": {},
+  "sessions": {
+    "s_ff8c3840887fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
