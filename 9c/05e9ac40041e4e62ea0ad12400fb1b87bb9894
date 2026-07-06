@@ -1,0 +1,23 @@
+android/gradle/wrapper/gradle-wrapper.properties
+  s_ff8c3840887fef::t_e45973648b30fa 1-7
+android/gradlew
+  s_ff8c3840887fef::t_74aabe427b7554 1-169
+android/gradlew.bat
+  s_ff8c3840887fef::t_e099e3a1c545b3 1-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9c05e9ac40041e4e62ea0ad12400fb1b87bb9894",
+  "prompts": {},
+  "sessions": {
+    "s_ff8c3840887fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
