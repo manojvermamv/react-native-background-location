@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_33a3b7d3476b93::t_b54a682bf7082b 157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "907783b3944513804075d55754acc3031f482830",
+  "prompts": {},
+  "sessions": {
+    "s_33a3b7d3476b93": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0e7b3d4a7ffek7CIM2VXBYZJQA",
+        "model": "unknown"
+      },
+      "human_author": "Manoj Verma <71809372+manojvermamv@users.noreply.github.com>"
+    }
+  }
+}
